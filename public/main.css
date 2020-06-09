@@ -1,0 +1,18 @@
+
+body {
+  
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+.userNameClass {
+    list-style: none;
+    padding: 20px; 
+    margin: 20px;
+    border: 1px solid black;
+    width: 30%;
+    margin-left: 35%; 
+}
